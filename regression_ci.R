@@ -1,4 +1,4 @@
-setwd("C:/Users/bibhu/OneDrive/Desktop/R")
+setwd()
 
 df = read.csv("DataForJune10th.csv")
 Y = colnames(df)[1]
